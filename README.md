@@ -1,14 +1,16 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Prometheus Synotrix - Joint Simulator Banner" width="100%">
+  <img src="assets/banner.png" alt="Prometheus Synotrix — Interactive Human Joint Simulator" width="100%">
 </p>
 
 # 🦿 Prometheus Synotrix
 
 ### *Interactive Human Joint Simulator*
 
-> An educational 3D simulation exploring human joints, their structural organization, and patterns of movement through interactive anatomical visualization.
+> **Prometheus Synotrix** is an interactive visualization exploring **human joint structure, classification, and movement** through simplified 3D anatomical models.
+>
+> 🦿 **Human Anatomy** · 🔄 **Joint Movement** · 🧬 **Skeletal System**
 
-**🦿 Human Anatomy · 🔄 Joint Movement · 🧬 Skeletal System**
+**🔬 [Explore the Simulation](YOUR-LINK-HERE)**
 
 ---
 
@@ -18,19 +20,19 @@
 Rotate, zoom, and explore simplified anatomical models of human joints.
 
 **🔄 Joint Movement Simulation**  
-Visualize movement associated with different types of joints.
+Visualize movement associated with different joint types.
 
 **🔍 Inspect Mode**  
 Explore anatomical structures through interactive labels and visual identification.
 
 **📚 NCERT Aligned**  
-Designed to support core school-level Biology concepts related to the skeletal system and joints.
+Supports school-level Biology concepts related to the skeletal system and joints.
 
 **🧠 Educational Visualization**  
-Simplified anatomical models designed for conceptual understanding and interactive learning.
+Explore joint anatomy through simplified models designed for conceptual learning.
 
 **📱 Responsive Design**  
-Optimized for desktop and mobile devices.
+Optimized for modern desktop and mobile devices.
 
 ---
 
@@ -44,17 +46,17 @@ Optimized for desktop and mobile devices.
 
 **HTML · CSS · JavaScript**
 
-**Source:** GitHub  
+**Repository:** GitHub & Codeberg  
 **Hosting:** GitHub Pages
 
 ---
 
 ## ⚠️ Educational Disclaimer
 
-Simplified anatomical models are provided for educational visualization and conceptual learning and should not be considered medically or anatomically exact representations.
+The anatomical models and movement visualizations are **simplified representations intended for educational and conceptual purposes**. They are not intended to serve as medical, diagnostic, or anatomically exact references.
 
 ---
 
 ## 📜 License
 
-**GNU General Public License v3.0 (GPL-3.0)**
+Distributed under the **GNU General Public License v3.0 (GPL-3.0)**.
