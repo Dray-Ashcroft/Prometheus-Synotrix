@@ -8,7 +8,7 @@
 
 > **Prometheus Synotrix** is an interactive visualization exploring **human joint structure, classification, and movement** through simplified 3D anatomical models.
 >
-🦿 **Human Anatomy** · 🔄 **Joint Movement** · 🧬 **Skeletal System**
+🦿 **Human Anatomy** · 🔄 **Joint Movement** · 🩻 **Skeletal System**
 
 **🔬 [Explore the Simulation](YOUR-LINK-HERE)**
 
