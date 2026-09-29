@@ -10,7 +10,7 @@
 >
 🦿 **Human Anatomy** · 🔄 **Joint Movement** · 🩻 **Skeletal System**
 
-**🔬 [Explore the Simulation](https://prometheus-synotrix.dray-ashcroft.workers.dev/)**
+**🔬 [Explore the Simulation](https://prometheus-synotrix.stark-kodex.workers.dev)**
 
 ---
 
