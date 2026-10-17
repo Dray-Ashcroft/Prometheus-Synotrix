@@ -17,9 +17,9 @@
 ## ✦ Features
 
 - **🦴 Real anatomical bones:** skull, vertebrae and limb bones from reference anatomy data
-- **🦾 Rigged joints:** each bone moves about its true joint centre
+- **🦿 Rigged joints:** each bone moves about its true joint centre
 - **🔍 Inspect Mode:** tap a bone, cartilage, ligament or disc to identify it
-- **👆🏻 Tappable sutures and gomphosis:** explore skull sutures and the tooth in its socket
+- **🧩 Tappable sutures and gomphosis:** explore skull sutures and the tooth in its socket
 - **📚 NCERT aligned:** supports school-level Biology on the skeletal system
 - **📱 Responsive:** works on desktop and mobile
 
@@ -27,7 +27,12 @@
 
 ## 🦿 Joint Types
 
-**Fibrous** (skull) · **Cartilaginous** (intervertebral disc) · **Synovial** (shoulder) · **Ball-and-Socket** (hip) · **Pivot** (atlas–axis) · **Hinge** (elbow)
+- **Fibrous**: skull sutures, gomphosis
+- **Cartilaginous**: intervertebral disc
+- **Synovial**: shoulder
+- **Ball-and-Socket**: hip
+- **Pivot**: atlas–axis
+- **Hinge**: elbow
 
 ---
 
@@ -36,7 +41,7 @@
 **HTML · CSS · JavaScript · Three.js**
 
 **Repository:** GitHub & Codeberg  
-**Hosting:** Cloudflare Workers
+**Hosting:** GitHub Pages
 
 ---
 
@@ -57,4 +62,4 @@ The models are **simplified for learning**. They are not medical or anatomically
 
 ## 📜 License
 
-Code: **GNU GPL v3.0**. 3D anatomy data keeps its own licence (BodyParts3D: CC BY 4.0, attribution required).
+The code is licensed under the **GNU General Public License v3.0**. The 3D bone models are from **BodyParts3D**, licensed under **Creative Commons Attribution 4.0 International**.
