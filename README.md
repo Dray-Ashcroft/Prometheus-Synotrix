@@ -6,8 +6,8 @@
 
 ### *Interactive Human Joint Simulator*
 
-> **Prometheus Synotrix** is an interactive visualization exploring **human joint structure, classification, and movement** through simplified 3D anatomical models.
->
+> **Prometheus Synotrix** explores **human joint structure, classification and movement** through rigged 3D models built from real human bone geometry.
+
 🦿 **Human Anatomy** · 🔄 **Joint Movement** · 🩻 **Skeletal System**
 
 **🔬 [Explore the Simulation](https://prometheus-synotrix.stark-kodex.workers.dev)**
@@ -16,47 +16,45 @@
 
 ## ✦ Features
 
-**🦿 Interactive 3D Models**  
-Rotate, zoom, and explore simplified anatomical models of human joints.
-
-**🔄 Joint Movement Simulation**  
-Visualize movement associated with different joint types.
-
-**🔍 Inspect Mode**  
-Explore anatomical structures through interactive labels and visual identification.
-
-**📚 NCERT Aligned**  
-Supports school-level Biology concepts related to the skeletal system and joints.
-
-**🧠 Educational Visualization**  
-Explore joint anatomy through simplified models designed for conceptual learning.
-
-**📱 Responsive Design**  
-Optimized for modern desktop and mobile devices.
+- **🦴 Real anatomical bones:** skull, vertebrae and limb bones from reference anatomy data
+- **🦾 Rigged joints:** each bone moves about its true joint centre
+- **🔍 Inspect Mode:** tap a bone, cartilage, ligament or disc to identify it
+- **👆🏻 Tappable sutures and gomphosis:** explore skull sutures and the tooth in its socket
+- **📚 NCERT aligned:** supports school-level Biology on the skeletal system
+- **📱 Responsive:** works on desktop and mobile
 
 ---
 
 ## 🦿 Joint Types
 
-**Ball-and-Socket · Hinge · Pivot · Cartilaginous · Synovial · Fibrous**
+**Fibrous** (skull) · **Cartilaginous** (intervertebral disc) · **Synovial** (shoulder) · **Ball-and-Socket** (hip) · **Pivot** (atlas–axis) · **Hinge** (elbow)
 
 ---
 
 ## ⚙️ Technology
 
-**HTML · CSS · JavaScript**
+**HTML · CSS · JavaScript · Three.js**
 
 **Repository:** GitHub & Codeberg  
-**Hosting:** GitHub Pages
+**Hosting:** Cloudflare Workers
+
+---
+
+## 🙏 Credits & Acknowledgements
+
+- **Skull, vertebrae, disc:** [BodyParts3D](https://dbarchive.biosciencedbc.jp/en/bodyparts3d/) © DBCLS · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · [Paper](https://doi.org/10.1093/nar/gkn613) (modified)
+- **Rigged arm, shoulder, hip bones:** [Skeleton.obj](#) · *[licence]*
+- **Libraries:** [Three.js](https://threejs.org) · [meshoptimizer](https://github.com/zeux/meshoptimizer) (MIT)
+- Concept, design and validation by **[your name]**, developed with AI assistance (Claude, by Anthropic).
 
 ---
 
 ## ⚠️ Educational Disclaimer
 
-The anatomical models and movement visualizations are **simplified representations intended for educational and conceptual purposes**. They are not intended to serve as medical, diagnostic, or anatomically exact references.
+The models are **simplified for learning**. They are not medical or anatomically exact references, and some structures are exaggerated for visibility.
 
 ---
 
 ## 📜 License
 
-Distributed under the **GNU General Public License v3.0 (GPL-3.0)**.
+Code: **GNU GPL v3.0**. 3D anatomy data keeps its own licence (BodyParts3D: CC BY 4.0, attribution required).
