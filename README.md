@@ -39,7 +39,6 @@
 ## ⚙️ Technology
 
 **HTML · CSS · JavaScript · Three.js**
-
 **Repository:** GitHub & Codeberg  
 **Hosting:** GitHub Pages
 
