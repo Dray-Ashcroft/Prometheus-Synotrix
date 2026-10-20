@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="Prometheus Synotrix — Interactive Human Joint Simulator" width="100%">
 </p>
 
-# 🦿 Prometheus Synotrix
+# 🦾 Prometheus Synotrix
 
 ### *Interactive Human Joint Simulator*
 
@@ -10,7 +10,7 @@
 
 🦿 **Human Anatomy** · 🔄 **Joint Movement** · 🩻 **Skeletal System**
 
-**🔬 [Explore the Simulation](https://prometheus-synotrix.stark-kodex.workers.dev)**
+**🔬 [Explore the Joints](https://prometheus-synotrix.stark-kodex.workers.dev)**
 
 ---
 
@@ -40,7 +40,7 @@
 
 **HTML · CSS · JavaScript · Three.js**
 **Repository:** GitHub & Codeberg  
-**Hosting:** GitHub Pages
+**Hosting:** Cloudflare pages 
 
 ---
 
@@ -49,13 +49,13 @@
 - **Skull, vertebrae, disc:** [BodyParts3D](https://dbarchive.biosciencedbc.jp/en/bodyparts3d/) © DBCLS · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · [Paper](https://doi.org/10.1093/nar/gkn613) (modified)
 - **Rigged arm, shoulder, hip bones:** [Skeleton.obj](#) · *[licence]*
 - **Libraries:** [Three.js](https://threejs.org) · [meshoptimizer](https://github.com/zeux/meshoptimizer) (MIT)
-- Concept, design and validation by **[your name]**, developed with AI assistance (Claude, by Anthropic).
+- Concept, design and validation by **Draven Ashcroft,(Biology Lecturer)**, developed with  Multimodal AI assistance (Claude Opus 5.5, Open AI - 5.6, Perplexity - Sonar).
 
 ---
 
 ## ⚠️ Educational Disclaimer
 
-The models are **simplified for learning**. They are not medical or anatomically exact references, and some structures are exaggerated for visibility.
+The models are **simplified for learning**. They are not medical or anatomically exact references.
 
 ---
 
