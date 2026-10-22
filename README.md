@@ -48,7 +48,9 @@
       <br><strong>Skeletal Anatomy</strong>
     </td>
   </tr>
-</table>---
+</table>
+
+---
 
 🦿 **Joint Classification & Skeletal System**
 
