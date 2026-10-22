@@ -8,6 +8,10 @@
 
 ---
 
+<p align="center">
+  <em>Dedicated to Sriman Narayana</em>
+</p>
+
 ✨ **Features**
 
 - 🦴 Anatomical Models — Explore skull, vertebrae, discs, and limb bones.
@@ -15,7 +19,8 @@
 - 🔍 Inspect Mode — Identify bones, cartilage, ligaments, and discs.
 - 🧩 Joint Structures — Explore sutures, gomphosis, and synovial joints.
 - 📚 NCERT-Aligned — Supports school-level skeletal system studies.
-- 📱 Responsive Design — Desktop and mobile support.
+- 📱 Responsive Design — Optimized for Mobile, Smart panel
+- 🩻 Skeletal System: Integrated Skeletal System.
 
 ---
 
