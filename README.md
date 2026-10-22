@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Prometheus Synotrix — Interactive Human Joint Simulator" width="100%">
+  <img src="assets/banner/banner.png" alt="Prometheus Synotrix — Interactive Human Joint Simulator" width="100%">
 </p><h1 align="center">🦾 Prometheus Synotrix</h1><h3 align="center"><em>Interactive Human Joint Simulator</em></h3>Explore human joint anatomy, classification, and movement through interactive, rigged 3D bone models.
 
 <p align="center">🦿 Human Anatomy · 🔄 Joint Movement · 🩻 Skeletal System</p><p align="center">
