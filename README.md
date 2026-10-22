@@ -8,7 +8,7 @@
 
 ---
 
-><p align="center"><em> Project Dedicated to Sriman Narayana</em>
+><p align="center"><em> Project Dedicated to Lord Vishnu</em>
 </p>
 
 ---
@@ -56,6 +56,7 @@
 - Cartilaginous: Intervertebral joints
 - Synovial: Shoulder, hip, atlas–axis, elbow
 - Skeletal System: Types Axial,Appendicular
+
 ---
 
 ⚙️ **Technology**
