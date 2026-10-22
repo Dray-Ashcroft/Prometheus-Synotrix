@@ -22,7 +22,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="assets/Screenshots/intro.png" alt="Prometheus Synotrix Introduction" width="95%">
+      <img src="assets/Screenshots/Intro.png" alt="Prometheus Synotrix Introduction" width="95%">
       <br><strong>Introduction</strong>
     </td>
     <td align="center" width="50%">
