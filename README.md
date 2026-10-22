@@ -15,12 +15,12 @@
 
 ✨ **Features**
 
-- 🦴 Anatomical Models — Explore skull, vertebrae, discs, and limb bones.
-- 🦿 Rigged Joints — Visualize movement around joint centres.
-- 🔍 Inspect Mode — Identify bones, cartilage, ligaments, and discs.
-- 🧩 Joint Structures — Explore sutures, gomphosis, and synovial joints.
-- 📚 NCERT-Aligned — Supports school-level skeletal system studies.
-- 📱 Responsive Design — Optimized for Mobile, Smart panel
+- 🦴 Anatomical Models: Explore skull, vertebrae, discs, and limb bones.
+- 🦿 Rigged Joints: Visualize movement around joint centres.
+- 🔍 Inspect Mode: Identify bones, cartilage, ligaments, and discs.
+- 🧩 Joint Structures:  Explore sutures, gomphosis, and synovial joints.
+- 📚 NCERT-Aligned: Supports Class IX & XI-level skeletal system.
+- 📱 Responsive Design: Optimized for Mobile, Smart panel
 - 🩻 Skeletal System: Integrated Skeletal System.
 
 ---
