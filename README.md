@@ -8,9 +8,10 @@
 
 ---
 
-<p align="center">
-  <em>Dedicated to Sriman Narayana</em>
+><p align="center"><em>Dedicated to Lord Aditya</em>
 </p>
+
+---
 
 ✨ **Features**
 
