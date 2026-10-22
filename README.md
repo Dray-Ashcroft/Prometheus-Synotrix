@@ -22,21 +22,21 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="assets/screenshots/intro.png" alt="Prometheus Synotrix Introduction" width="95%">
+      <img src="assets/Screenshots/intro.png" alt="Prometheus Synotrix Introduction" width="95%">
       <br><strong>Introduction</strong>
     </td>
     <td align="center" width="50%">
-      <img src="assets/screenshots/Joints.png" alt="Interactive Joint Anatomy" width="95%">
+      <img src="assets/Screenshots/Joints.png" alt="Interactive Joint Anatomy" width="95%">
       <br><strong>Joint Anatomy</strong>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="assets/screenshots/Joints%202.png" alt="Joint Classification and Movement" width="95%">
+      <img src="assets/Screenshots/Joints%202.png" alt="Joint Classification and Movement" width="95%">
       <br><strong>Joint Classification</strong>
     </td>
     <td align="center" width="50%">
-      <img src="assets/screenshots/Skeleton.png" alt="Human Skeletal Anatomy" width="95%">
+      <img src="assets/Screenshots/Skeleton.png" alt="Human Skeletal Anatomy" width="95%">
       <br><strong>Skeletal Anatomy</strong>
     </td>
   </tr>
