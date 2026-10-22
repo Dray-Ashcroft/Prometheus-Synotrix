@@ -4,11 +4,9 @@
 
 <p align="center">🦿 Human Anatomy · 🔄 Joint Movement · 🩻 Skeletal System</p><p align="center">
   <a href="https://prometheus-synotrix.stark-kodex.workers.dev"><strong>Explore the Joints →</strong></a>
-</p> 
+</p>---
 
----
-
-✨ **Features**
+✨ Features
 
 - 🦴 Anatomical Models — Explore skull, vertebrae, discs, and limb bones.
 - 🦿 Rigged Joints — Visualize movement around joint centres.
@@ -19,7 +17,7 @@
 
 ---
 
-🖼️ **Screenshots**
+🖼️ Screenshots
 
 <table>
   <tr>
@@ -42,11 +40,9 @@
       <br><strong>Skeletal Anatomy</strong>
     </td>
   </tr>
-</table>
+</table>---
 
----
-
-🦿 **Joint Classification**
+🦿 Joint Classification
 
 - Fibrous: Skull sutures, gomphosis
 - Cartilaginous: Intervertebral joints
@@ -57,25 +53,27 @@
 ⚙️ Technology
 
 HTML · CSS · JavaScript · Three.js
+
 Repository: GitHub & Codeberg
 Hosting: Cloudflare Pages
 
 ---
 
-🙏 **Credits**
+🙏 Credits
 
 - Anatomical Models: "BodyParts3D" (https://dbarchive.biosciencedbc.jp/en/bodyparts3d/) · "CC BY 4.0" (https://creativecommons.org/licenses/by/4.0/) (modified)
+- Additional 3D Asset: "Fab Model" (https://fab.com/s/0ecc86fb0a8d)
 - Libraries: "Three.js" (https://threejs.org) · "meshoptimizer" (https://github.com/zeux/meshoptimizer) (MIT)
 - Development: Concept, design, and validation by Draven Ashcroft, Biology Lecturer, with AI assistance from Claude, OpenAI, and Perplexity.
 
 ---
 
-⚠️ **Educational Disclaimer**
+⚠️ Educational Disclaimer
 
 Models are simplified for educational purposes and are not precise clinical references.
 
 ---
 
-📜 **License**
+📜 License
 
 Source code is licensed under the "GNU GPL-3.0 License" (LICENSE). Third-party assets remain subject to their respective licenses.
