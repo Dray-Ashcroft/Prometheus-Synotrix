@@ -8,7 +8,7 @@
 
 ---
 
-><p align="center"><em>Dedicated to Lord Aditya</em>
+><p align="center"><em> Project Dedicated to Sriman Narayana</em>
 </p>
 
 ---
