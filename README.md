@@ -3,7 +3,7 @@
 </p><h1 align="center">🦾 Prometheus Synotrix</h1><h3 align="center"><em>Interactive Human Joint Simulator</em></h3>Explore human joint anatomy, classification, and movement through interactive, rigged 3D bone models.
 
 <p align="center">🦿 Human Anatomy · 🔄 Joint Movement · 🩻 Skeletal System</p><p align="center">
-  <a href="https://prometheus-synotrix.stark-kodex.workers.dev"><strong>Explore the Joints →</strong></a>
+  <a href="https://prometheus-synotrix.stark-kodex.workers.dev"><strong>Explore Skeletal System </strong></a>
 </p>
 
 ---
