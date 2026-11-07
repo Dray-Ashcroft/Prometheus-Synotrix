@@ -13,8 +13,7 @@ jobs:
       - name: Clone GitHub repository
         run: |
           git clone --mirror \
-            https://github.com/Dray-Ashcroft/Zeus-Cyclonix.git \
-            mirror.git
+            https://codeberg.org/Dray-Ashcroft/Prometheus-Synotrix.git
 
       - name: Push to Codeberg
         env:
