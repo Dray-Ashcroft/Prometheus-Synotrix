@@ -23,9 +23,21 @@ jobs:
 
       - name: Push to Codeberg
         env:
+          CODEBERG_USERNAME: Dray-Ashcroft
           CODEBERG_TOKEN: ${{ secrets.CODEBERG_TOKEN }}
         run: |
-          AUTH_HEADER="AUTHORIZATION: basic $(printf '%s' "Dray-Ashcroft:${CODEBERG_TOKEN}" | base64 -w0)"
+          cat > "$RUNNER_TEMP/codeberg-askpass.sh" <<'EOF'
+          #!/bin/sh
+          case "$1" in
+            *Username*) printf '%s\n' "$CODEBERG_USERNAME" ;;
+            *Password*) printf '%s\n' "$CODEBERG_TOKEN" ;;
+            *) exit 1 ;;
+          esac
+          EOF
 
-          git -C mirror.git -c http.extraheader="$AUTH_HEADER" push --mirror \
+          chmod +x "$RUNNER_TEMP/codeberg-askpass.sh"
+
+          GIT_ASKPASS="$RUNNER_TEMP/codeberg-askpass.sh" \
+          GIT_TERMINAL_PROMPT=0 \
+          git -C mirror.git push --mirror \
             "https://codeberg.org/Dray-Ashcroft/Prometheus-Synotrix.git"
