@@ -13,13 +13,10 @@ jobs:
 
     steps:
       - name: Clone GitHub repository
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          AUTH_HEADER="AUTHORIZATION: basic $(printf 'x-access-token:%s' "$GITHUB_TOKEN" | base64 -w0)"
-
-          git -c http.extraheader="$AUTH_HEADER" clone --mirror \
-            "https://github.com/${GITHUB_REPOSITORY}.git" mirror.git
+          git clone --mirror \
+            https://github.com/Dray-Ashcroft/Prometheus-Synotrix.git \
+            mirror.git
 
       - name: Push to Codeberg
         env:
