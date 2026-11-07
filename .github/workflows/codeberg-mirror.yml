@@ -1,0 +1,24 @@
+
+name: Mirror to Codeberg
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clone GitHub repository
+        run: |
+          git clone --mirror \
+            https://github.com/Dray-Ashcroft/Zeus-Cyclonix.git \
+            mirror.git
+
+      - name: Push to Codeberg
+        env:
+          CODEBERG_TOKEN: ${{ secrets.CODEBERG_TOKEN }}
+        run: |
+          git -C mirror.git push --mirror \
+            "https://Dray-Ashcroft:${CODEBERG_TOKEN}@codeberg.org/Dray-Ashcroft/Zeus-Cyclonix.git"
