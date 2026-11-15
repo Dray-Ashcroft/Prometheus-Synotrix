@@ -128,7 +128,6 @@ HTML · CSS · JavaScript · Three.js · Cloudflare Pages
 |:--|:--|
 | [BodyParts3D](https://dbarchive.biosciencedbc.jp/en/bodyparts3d/) · © The Database Center for Life Science | Anatomy models ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · [Fab model](https://fab.com/s/0ecc86fb0a8d)) |
 | [Three.js](https://threejs.org) · [meshoptimizer](https://github.com/zeux/meshoptimizer) | Libraries (MIT) |
-| Draven Ashcroft | Development |
 | Claude · OpenAI · Perplexity | AI assistance |
 | GitHub & Codeberg | Repository |
 | Cloudflare Pages | Hosting |
