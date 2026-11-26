@@ -218,6 +218,7 @@ Bone models were simplified and repositioned; additional bones are adapted from 
 
 | Release | Title | Date |
 |:--|:--|:--|
+| RC VIII | Grandeur | 25 Nov 2026 |
 | RC VII | Final Touch-ups | 22 Oct 2026 |
 | RC VI | Bug Fixes and UI Improvements | 22 Oct 2026 |
 | RC V | Skeleton Learning Tool | 22 Oct 2026 |
